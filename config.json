@@ -1,0 +1,16 @@
+{
+    "token": "",
+    "prefix": ",",
+    "color": "#6861fe",
+    "pastebinapi": "",
+    
+    "servers": {
+        "234": "supercoolip"
+    },
+    "passwords": {
+        "234": "supercoolpasswort"
+    },
+    "usernames": {
+        "234": "root"
+    }
+}
